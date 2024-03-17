@@ -1,4 +1,5 @@
-# Youtube_clone
-### Screenshot:
+# Youtube_clone 
 
-![Screenshot (188)](https://github.com/Vasu-Tilva/Youtube_clone/assets/146325927/9701cda5-4e5e-438a-8359-e4c58a738ec0)
+### Screenshot:
+![image](https://github.com/Vasu-Tilva/Youtube_clone/assets/146325927/8b2d5db4-0088-49d2-a928-d75c5b5c3ae1)
+
